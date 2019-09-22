@@ -20,6 +20,7 @@ namespace Kalkulator
                 int menuOption = Convert.ToInt32(Console.ReadLine());
             if (menuOption == 0)
                 break;
+            // Killroy was here
                  }
         }
     }
